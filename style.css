@@ -1,0 +1,10 @@
+table { border-collapse:collapse; width:100%; font-size:20px; }
+table td { padding:0; vertical-align:top; }
+table.Sub { width:auto; }
+table td.leftColumn { width:25%; text-align:center; }
+b { color: #444; }
+a { color:#000; }
+a:hover { color:#aaa; }
+.Title { color:#444; text-decoration:none; font-weight:bold; }
+img { border: 0; }
+.Separation { background-color: #ccffcc; }
