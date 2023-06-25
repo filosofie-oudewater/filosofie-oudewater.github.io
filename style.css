@@ -8,3 +8,4 @@ a:hover { color:#aaa; }
 .Title { color:#444; text-decoration:none; font-weight:bold; }
 img { border: 0; }
 .Separation { background-color: #ccffcc; }
+li:not(:last-child) { margin-bottom: 5px; }
